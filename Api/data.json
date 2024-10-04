@@ -1,0 +1,184 @@
+{
+    "data": [{
+            "id": 1,
+            "title": "Women Hot Collection",
+            "description": "A trendy collection of women's wear perfect for various occasions. This collection features stylish and comfortable outfits suitable for both casual and formal settings.",
+            "image": "https://imagizer.imageshack.com/img924/8946/JXqYu4.jpg",
+            "category": "women",
+            "price": 50,
+            "count": 1
+        },
+        {
+            "id": 2,
+            "title": "Awesome Pink Show",
+            "description": "Stand out with this vibrant pink show collection. Ideal for those who love to add a splash of color to their wardrobe, these pieces are both fashionable and affordable.",
+            "image": "https://imagizer.imageshack.com/img924/889/NQrUAW.jpg",
+            "category": "women",
+            "price": 29,
+            "count": 1
+        },
+        {
+            "id": 3,
+            "title": "Awesome Bags Collection",
+            "description": "Discover our collection of stylish and practical bags. Perfect for everyday use, these bags are designed to complement any outfit while offering ample space for all your essentials.",
+            "image": "https://imagizer.imageshack.com/img922/2778/mUbgJl.jpg",
+            "category": "Accessories",
+            "price": 60,
+            "count": 1
+        },
+        {
+            "id": 4,
+            "title": "Women Pant Collections",
+            "description": "Explore our variety of women’s pants, designed to provide comfort and style. From casual to dressy, find the perfect pair to match your needs and fashion sense.",
+            "image": "https://imagizer.imageshack.com/img922/3908/ij0wDC.jpg",
+            "category": "women",
+            "price": 70,
+            "count": 1
+        },
+        {
+            "id": 5,
+            "title": "Awesome Bags Collection",
+            "description": "Another selection from our exquisite bag collection, these pieces combine elegance and functionality, making them a must-have accessory for any fashion-forward individual.",
+            "image": "https://imagizer.imageshack.com/img924/6745/xYGtzy.jpg",
+            "category": "Accessories",
+            "price": 65,
+            "count": 1
+        },
+        {
+            "id": 6,
+            "title": "Awesome Cap For Women",
+            "description": "Keep it cool and casual with our stylish cap collection. Designed specifically for women, these caps are perfect for sunny days and outdoor activities.",
+            "image": "https://imagizer.imageshack.com/img923/1592/dE4TkI.jpg",
+            "category": "Accessories",
+            "price": 45,
+            "count": 1
+        },
+        {
+            "id": 7,
+            "title": "Polo Dress For Women",
+            "description": "Embrace classic elegance with our Polo dresses. Perfect for any occasion, these dresses offer a timeless look that never goes out of style.",
+            "image": "https://imagizer.imageshack.com/img924/3537/aPEQFx.jpg",
+            "category": "women",
+            "price": 57,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "title": "Black Sunglass For Women",
+            "description": "Protect your eyes in style with our chic black sunglasses. These sunglasses are a perfect accessory to complete any outfit while providing UV protection.",
+            "image": "https://imagizer.imageshack.com/img922/7889/llUuUg.jpg",
+            "category": "women",
+            "price": 80,
+            "count": 1
+        },
+        {
+            "id": 9,
+            "title": "DANVOUY Womens T Shirt",
+            "description": "A stylish and comfortable T-shirt for women. Perfect for casual wear, this T-shirt offers both comfort and fashion.",
+            "image": "https://imagizer.imageshack.com/img924/5527/UwBnZ7.jpg",
+            "category": "women",
+            "price": 20,
+            "count": 1
+        },
+        {
+            "id": 10,
+            "title": "Opna Women's Short Sleeve",
+            "description": "A versatile short sleeve T-shirt for women. Ideal for everyday wear, it provides comfort and style in one package.",
+            "image": "https://imagizer.imageshack.com/img922/8904/lAH9HA.jpg",
+            "category": "women",
+            "price": 25,
+            "count": 1
+        },
+        {
+            "id": 11,
+            "title": "Men's Plain T-Shirt",
+            "description": "A classic plain T-shirt for men. Suitable for any casual occasion, this T-shirt offers simplicity and comfort.",
+            "image": "https://imagizer.imageshack.com/img923/8416/Kmh7tG.jpg",
+            "category": "man",
+            "price": 45,
+            "count": 1
+        },
+        {
+            "id": 12,
+            "title": "adidas Men Italy 23 Home",
+            "description": "Official Italy 23 Home jersey by adidas. Perfect for sports enthusiasts and fans, offering comfort and team spirit.",
+            "image": "https://imagizer.imageshack.com/img922/6742/LyiJrt.jpg",
+            "category": "man",
+            "price": 45,
+            "count": 1
+        },
+        {
+            "id": 13,
+            "title": "adidas ALAHLY H JERSEY Y TMPWRD",
+            "description": "Show your support with the adidas ALAHLY H Jersey. Designed for performance and style, perfect for any fan.",
+            "image": "https://imagizer.imageshack.com/img924/4272/DY4ju2.jpg",
+            "category": "man",
+            "price": 45,
+            "count": 1
+        },
+        {
+            "id": 14,
+            "title": "Reversible-sequin T-shirt",
+            "description": "A fun and stylish reversible-sequin T-shirt for kids. Perfect for adding a touch of sparkle to their wardrobe.",
+            "image": "https://imagizer.imageshack.com/img922/1677/33sbdH.png",
+            "category": "kids",
+            "price": 45,
+            "count": 1
+        },
+        {
+            "id": 15,
+            "title": "Cotton jersey T-shirt",
+            "description": "A comfortable and soft cotton jersey T-shirt for kids. Ideal for everyday wear, providing comfort and durability.",
+            "image": "https://imagizer.imageshack.com/img924/6320/kUgBGX.png",
+            "category": "kids",
+            "price": 45,
+            "count": 1
+        },
+        {
+            "id": 16,
+            "title": "Mini Focus Casual Watch For Men",
+            "description": "A sleek and stylish casual watch for men by Mini Focus. Perfect for everyday wear, combining functionality and fashion.",
+            "image": "https://imagizer.imageshack.com/img922/1687/cTwHKd.jpg",
+            "category": "Accessories",
+            "price": 27,
+            "count": 1
+        },
+        {
+            "id": 17,
+            "title": "Sport Silicone Band Strap",
+            "description": "A durable and comfortable silicone band strap for sports enthusiasts. Ideal for a variety of activities, offering both style and function.",
+            "image": "https://imagizer.imageshack.com/img923/3241/e6zZJ5.jpg",
+            "category": "Accessories",
+            "price": 55,
+            "count": 1
+        },
+        {
+            "id": 18,
+            "title": "Junior Baby Boy Romper",
+            "description": "A cute and comfortable romper for baby boys. Perfect for everyday wear, providing ease of movement and style.",
+            "image": "https://imagizer.imageshack.com/img922/1006/DWuD9v.jpg",
+            "category": "Prices",
+            "price": 50,
+            "count": 1
+
+        },
+        {
+            "id": 19,
+            "title": "Men's Leather Crossbody Bag",
+            "description": "A stylish and practical leather crossbody bag for men. Ideal for carrying essentials while on the go, combining fashion and functionality.",
+            "image": "https://imagizer.imageshack.com/img924/3985/yKOA5h.jpg",
+            "category": "Prices",
+            "price": 65,
+            "count": 1
+        },
+        {
+            "id": 20,
+            "title": "Accelerate Capri",
+            "description": "Comfortable and stylish capris for active individuals. Perfect for workouts or casual wear, offering flexibility and comfort.",
+            "image": "https://imagizer.imageshack.com/img924/3994/XIDdKx.png",
+            "category": "Prices",
+            "price": 20,
+            "count": 1
+        }
+    ]
+}
