@@ -3,7 +3,7 @@ var cart = [];
 async function addToCart(id) {
     async function getProduct() {
         try {
-            const response = await fetch("https://eshop-three-tawny.vercel.app/js/data.json");
+            const response = await fetch("https://eshop-six-murex.vercel.app/js/data.json");
             if (!response.ok) {
                 throw new Error(`Response status: ${response.status}`);
             }
