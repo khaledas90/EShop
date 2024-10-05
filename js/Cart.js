@@ -9,7 +9,7 @@ async function addToCart(id) {
             }
 
             const data = await response.json();
-            const product = data[id];
+            const product = data.data[id];
 
             if (localStorage.getItem("cart")) {
                 cart = JSON.parse(localStorage.getItem("cart"));

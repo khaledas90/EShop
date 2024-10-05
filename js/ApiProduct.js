@@ -5,41 +5,44 @@ document.addEventListener("DOMContentLoaded", function() {
 async function getProduct() {
     try {
         const response = await fetch("https://eshop-three-tawny.vercel.app/js/data.json");
+     
         if (!response.ok) {
             throw new Error(`Response status: ${response.status}`);
         }
 
         const data = await response.json();
-        let finalData = data;
+           
+        
+        let finalData = data.data;
         const navProducts = document.querySelectorAll(".navProducts");
 
         navProducts.forEach((navProduct) => {
             navProduct.classList.contains("All") && renderProducts(finalData);
             navProduct.addEventListener("click", () => {
                 if (navProduct.classList.contains("All")) {
-                    finalData = data.filter((product) => {
+                    finalData = data.data.filter((product) => {
                         return product;
                     });
                     console.log(finalData);
                 } else if (navProduct.classList.contains("man")) {
-                    finalData = data.filter((product) => {
+                    finalData = data.data.filter((product) => {
                         return product.category === "man";
                     });
                     console.log(finalData);
                 } else if (navProduct.classList.contains("women")) {
-                    finalData = data.filter((product) => {
+                    finalData = data.data.filter((product) => {
                         return product.category === "women";
                     });
                 } else if (navProduct.classList.contains("kids")) {
-                    finalData = data.filter((product) => {
+                    finalData = data.data.filter((product) => {
                         return product.category === "kids";
                     });
                 } else if (navProduct.classList.contains("Prices")) {
-                    finalData = data.filter((product) => {
+                    finalData = data.data.filter((product) => {
                         return product.category === "Prices";
                     });
                 } else if (navProduct.classList.contains("Accessories")) {
-                    finalData = data.filter((product) => {
+                    finalData = data.data.filter((product) => {
                         return product.category === "Accessories";
                     });
                 }
