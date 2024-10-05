@@ -4,7 +4,7 @@ var WishList = [];
 async function addToWishList(id) {
     async function getWishListProduct() {
         try {
-            const response = await fetch("http://localhost:5550/data");
+            const response = await fetch("https://eshop-three-tawny.vercel.app/js/data.json");
             if (!response.ok) {
                 throw new Error(`Response status: ${response.status}`);
             }
